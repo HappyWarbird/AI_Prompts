@@ -1,0 +1,214 @@
+Credits: the awesome https://x.com/edizkan_
+
+A cinematic portrait of the uploaded reference character seated on a worn wooden chest inside a near-total darkness attic.
+
+The character sits in a natural 3/4 pose facing camera, holding a medieval weapon, posture heavy and grounded like a tired soldier after battle.
+
+Head slightly tilted, eyes looking directly at the viewer.
+
+A subtle crown rests on the character’s head.
+👑 CROWN CONTROL (FLOATING — LOCKED)
+• small, minimal, stylized floating crown
+
+• hovering just above the head (very close, not high)
+
+• centered and aligned with the head, visually anchored (no drift or tilt)
+Constraints:
+
+• must NOT cover or intersect ears
+
+• must NOT alter head silhouette
+
+• proportionally small
+Lighting:
+
+• subtle highlight from main beam
+
+• lower portion fades into shadow
+
+• no glow, no ornamentation
+🔒 Likeness Integrity (CRITICAL)
+Preserve exactly:
+• proportions
+
+• eye shape, spacing, stylization
+
+• silhouette
+
+• material identity
+No redesign. No facial changes. No added features beyond the crown.
+⚠️ LIGHT DOMINANCE SYSTEM
+Ambient light nearly eliminated.
+Two beams only:
+• one dominant primary sunbeam
+
+• one subtle secondary beam
+No fill. No bounce. Darkness everywhere else.
+🌫️ PRIMARY BEAM (GOD RAY — HERO)
+• narrow, intense, sharply directional
+
+• enters from roof gap at strong diagonal
+
+• dense volumetric Tyndall scattering
+
+• clearly defined edges with internal variation
+
+• brightest and most dominant light source
+Inside beam:
+• turbulent dust + smoke
+
+• swirling, layered motion
+
+• particle density variations creating bright streaks
+🌫️ SECONDARY BEAM (CONTROLLED — SUPPORT)
+A thinner, dimmer beam enters near the main one:
+• slightly offset angle
+
+• narrower and softer
+
+• lower intensity
+Behavior:
+• the secondary beam must directly intersect the small dragon’s body
+
+• the dragon must be positioned fully inside the beam’s footprint
+
+• the brightest point of the secondary beam must land on the dragon
+• no other object is allowed to occupy the center of this beam
+
+• the beam must NOT drift, widen, or miss the dragon
+• the dragon is the exclusive light target of the secondary beam
+🐉 DRAGON SYSTEM (NEW)
+Ground Dragon (
+• small  dragon
+
+• positioned inside the secondary beam
+
+• softly illuminated, clearly readable
+
+• surrounded by darkness
+
+• still, observant
+• placed precisely at the point where the secondary beam hits the ground
+• fully readable within the beam
+• surrounding area remains in darkness to isolate it
+Flying Dragon spitting fire (OVERHEAD — PARTIAL LIGHT)
+A second  dragon flies above the character:
+• wings partially entering the main beam
+
+• body partly in light, partly swallowed by darkness
+
+• silhouette readable but not fully revealed
+
+• does not block the primary beam entirely
+This creates:
+👉 layered depth
+
+👉 movement contrast
+
+👉 tension above stillness
+🌪️ PARTICULATE SYSTEM
+Inside main beam:
+• dense, turbulent smoke + dust
+
+• visible eddies and layered motion
+Inside secondary beam:
+• lighter, thinner particulate
+
+• softer visibility
+Outside beams:
+• particles disappear into darkness
+🎭 CHARACTER LIGHTING (SCULPTED CHIAROSCURO)
+• main beam lights face partially and weapon strongly
+
+• body remains mostly in shadow
+Rim System:
+• warm rim from main beam
+
+• faint cool rim from secondary beam
+🎨 COLOR SYSTEM
+Main beam:
+• warm golden sunlight
+Secondary beam:
+• slightly cooler tone
+Shadows:
+• cool, desaturated
+Palette muted and cinematic
+🌫️ VOLUMETRIC DEPTH
+• foreground particles crisp
+
+• mid-air hazy
+
+• background dissolves into black
+🧱 ENVIRONMENT
+• attic barely visible
+
+• structure revealed only where beams touch
+Old poster:
+• faint silhouette only
+⚔️ WEAPON PRESENCE (CONTROLLED)
+• oversized medieval weapon held like a king
+
+• partially catching main beam
+
+• subtle highlight, not overexposed
+
+• reinforces “post-battle stillness”
+🎥 CAMERA
+24mm cinematic lens
+• slightly low angle
+
+• off-axis composition
+
+• subject on right third
+Foreground:
+• blurred dark obstruction
+
+• partial occlusion
+🎯 DEPTH OF FIELD
+Extremely shallow
+Focus:
+• eyes
+
+• upper face
+
+• weapon edge
+Everything else fades into blur or darkness
+🌑 CONTRAST
+• extreme low-key
+
+• deep blacks
+
+• strong controlled highlights
+
+• no midtone flattening
+🎭 EMOTION
+Aftermath.
+The fight is over.
+
+The silence is not.
+The character feels:
+• exhausted
+
+• grounded
+
+• still alert
+The dragons feel:
+• present
+
+• watching
+
+• unresolved
+❌ NEGATIVE
+No ambient fill
+
+No beam symmetry
+
+No multiple strong lights
+
+No flat lighting
+
+No full visibility
+
+No uniform smoke
+🎞️ Aspect Ratio
+ar 4:5
